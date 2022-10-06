@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AA.FishingSystem.Api", "AA.FishingSystem.Api\AA.FishingSystem.Api.csproj", "{D76B806F-DF76-42B7-8968-D7541B65C532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AA.FishingSystem.Api", "AA.FishingSystem.Api\AA.FishingSystem.Api.csproj", "{D76B806F-DF76-42B7-8968-D7541B65C532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AA.FishingSystem.EntityFrameworkCore", "AA.FishingSystem.EntityFrameworkCore\AA.FishingSystem.EntityFrameworkCore.csproj", "{5F97D6D7-7D74-4306-803C-497483159767}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D76B806F-DF76-42B7-8968-D7541B65C532}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D76B806F-DF76-42B7-8968-D7541B65C532}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D76B806F-DF76-42B7-8968-D7541B65C532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F97D6D7-7D74-4306-803C-497483159767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F97D6D7-7D74-4306-803C-497483159767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F97D6D7-7D74-4306-803C-497483159767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F97D6D7-7D74-4306-803C-497483159767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
